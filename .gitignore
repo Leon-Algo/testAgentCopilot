@@ -1,0 +1,9 @@
+# .env
+.env
+.pdf
+.idea/
+.vscode/
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
